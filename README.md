@@ -18,6 +18,7 @@ The machine learning model demonstrates a **48.5% improvement** in sensitivity o
 -   `Higgs-Cutbased selection (1).ipynb`: A Jupyter Notebook containing the code for the cut-based analysis, which serves as a performance baseline.
 -   `Higgs-Machine Learning (1).ipynb`: A Jupyter Notebook that details the data pre-processing, model architecture, training, and evaluation of the neural network.
 -   `b4 cut.png` / `after cut.png`: Plots showing the reconstructed b-quark mass ($m_{BB}$) distribution before and after the cuts were applied in the baseline analysis.
+-    `nn/`: This directory contains the exploratory scripts used for the systematic search and tuning of the model's hyperparameters (e.g., layers, nodes, optimisers, and learning rates).
 -   `requirements.txt`: A list of the Python dependencies required to run the notebooks.
 
 ## Methodology
