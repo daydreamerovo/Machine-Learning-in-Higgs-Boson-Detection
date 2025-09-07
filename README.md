@@ -15,7 +15,7 @@ The primary metric for performance is signal sensitivity. The two methods yielde
 
 ## Repository Structure
 
--   `Higgs-Cutbased selection (1).ipynb`: A Jupyter Notebook containing the code for the cut-based analysis, which serves as a performance baseline.
+-   `Higgs-Cut-based selection (1).ipynb`: A Jupyter Notebook containing the code for the cut-based analysis, which serves as a performance baseline.
 -   `Higgs-Machine Learning (1).ipynb`: A Jupyter Notebook that details the data pre-processing, model architecture, training, and evaluation of the neural network.
 -   [cite_start]`b4 cut.png` / `after cut.png`: Plots showing the reconstructed b-quark mass ($m_{BB}$) distribution before and after the cuts were applied in the baseline analysis[cite: 55, 56].
 -   `requirements.txt`: A list of the Python dependencies required to run the notebooks.
